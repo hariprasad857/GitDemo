@@ -21,5 +21,7 @@ public class AppiumTest {
 	{
 		
 		System.out.println("iosapps");
+		System.out.println("iosapps1111");
+		System.out.println("iosapps2222");
 	}
 }
