@@ -50,3 +50,8 @@
 2021-07-14 14:22:35,018 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-14 14:22:35,018 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\harip\eclipse-workspace1\GitDemo\src\main\resources
 2021-07-14 14:22:35,021 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-14 14:22:35,021 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\harip\eclipse-workspace1\GitDemo\src\test\resources
+2021-07-14 15:14:27,809 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-14 15:14:27,810 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\harip\eclipse-workspace1\GitDemo\src\main\resources
+2021-07-14 15:14:27,814 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-14 15:14:27,814 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\harip\eclipse-workspace1\GitDemo\src\test\resources
